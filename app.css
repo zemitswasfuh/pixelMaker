@@ -1,0 +1,26 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44px;
+    justify-content: center;  
+    align-items: center; 
+    margin: auto;
+}
+
+#favcolor{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+#number {
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+label {
+    display: flex;
+    flex-wrap: wrap;
+    width: 44px;
+    justify-content: center;  
+    margin: auto;
+}
